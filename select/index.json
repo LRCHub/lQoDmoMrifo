@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "夢模様キャンバス",
+  "base_artist": "郁田はるき (CV.小澤麗那)",
+  "createdAt": "2026-03-22T08:05:16.136088Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夢模様キャンバス",
+      "artist": "郁田はるき(小澤麗那)",
+      "has_synced": false,
+      "path": "select/pl_01_夢模様キャンバス_郁田はるき(小澤麗那).txt"
+    }
+  ]
+}
